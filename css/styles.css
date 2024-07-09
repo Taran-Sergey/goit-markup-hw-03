@@ -335,10 +335,6 @@ background-color: #404bbf
     background: #2e2f42;
 }
 
-.footer-container{
-    display: inline-block;
-}
-
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -347,7 +343,7 @@ background-color: #404bbf
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
-    display: flex;
+    display: inline-block;
     align-items: center;
     justify-content: flex-start;
     flex-direction: row;
