@@ -321,11 +321,13 @@ background-color: #404bbf
 }
 
 .portfolio-image{
-    margin-bottom: 32px;
+    
 }
 
-.item-tex{
-    margin-bottom: 32px;
+.category{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 /* .portfolio-subtitle { 
