@@ -264,7 +264,12 @@ background-color: #404bbf
 }
 
 .team-image {
-    margin-bottom: 32px;
+    
+}
+
+.team-name{
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .team-subtitle {
